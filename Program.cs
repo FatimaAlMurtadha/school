@@ -204,6 +204,8 @@ while (running)
 
   }
 
+  Console.WriteLine("The system is done");
+
   /*switch (active_user.GetRole())
   {
     case Role.Teacher:
